@@ -1,4 +1,4 @@
-package com.edu.patterns;
+package com.edu.patterns.factory;
 
 /**
  * 

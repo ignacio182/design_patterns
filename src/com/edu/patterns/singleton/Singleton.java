@@ -1,8 +1,9 @@
-package com.edu.patterns;
+package com.edu.patterns.singleton;
 
 /**
  * 
  * @author Ignacio
+ * 
  * Singleton es una clase que solo se instancia una vez.
  * El constructor es privado, de esta forma se evita que se instancie.
  * posee un atributo privado singleton (estatico), que al comienzo es null. indicando que no se creo el objeto.
